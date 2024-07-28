@@ -25,11 +25,6 @@
           <br/><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
           </div>
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">  </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=hershyYJ&custom_title=hershyYJ's Github Stat&bg_color=180,00000000,00000000&title_color=2189b5&text_color=2189b5"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hershyYJ&layout=compact&bg_color=180,00000000,00000000&title_color=2189b5&text_color=2189b5"
