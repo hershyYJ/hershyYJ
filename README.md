@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♀ About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 2021.03 : 가톨릭대학교 컴퓨터정보공학부 입학</li></li><li> 2023.03 ~ 2023.12 : Like Lion CUK 11th Member</li></li><li> 2023.03 ~ 2024.01 : GDSC CUK 23th Member</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 2021.03 : 가톨릭대학교 컴퓨터정보공학부 입학</li></li><li> 2023.03 ~ 2023.12 : Like Lion CUK 11th Member</li></li><li> 2023.03 ~ 2024.01 : GDSC CUK 23th Member</li></li><li> 2024.04 ~ : 인천대학교 창업팀 '휴모리' Backend Leader</li> </div> 
     </div>
     <br>
     <div align= "center">
